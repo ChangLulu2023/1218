@@ -10,9 +10,9 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
-        <h1>最終修正版本2.0~~~</h1>
+        <h1>最終修正版本3.0~~~</h1>
     </head>
     <body>
-        <h1>我是終極版本中的終極</h1>
+        <h1>我是終極版本中的終極的終極</h1>
     </body>
 </html>
